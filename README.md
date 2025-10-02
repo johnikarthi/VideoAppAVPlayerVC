@@ -58,3 +58,5 @@ The project also showcases how to integrate **FairPlay Streaming (FPS)** license
 - Demonstrates error handling when URLs or responses are invalid  
 - Designed for educational/demo purposes – adapt for production use  
 
+## Search Topics
+- avplayer, ios, swift, swiftUI, sample-app
